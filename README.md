@@ -1,4 +1,4 @@
-<h1>Spring Boot JPA / REST with Polymer UI </h1>
+<h1>Spring Boot JPA - REST with Polymer UI </h1>
 
 Basic Spring Boot JPA/Rest using the Polymer Project UI.
 
